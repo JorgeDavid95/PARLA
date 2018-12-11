@@ -1,0 +1,120 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+
+.bg-panel img{
+	width: 80px;
+	margin: 0 auto;
+	display: block;
+}
+
+.lista-menu{
+	background-color: #f1f1f1;
+}
+
+.lista-menu .list{
+	margin-top: 0;
+	font-size: 14px;
+}
+
+.lista-menu .item-title{
+	font-weight: 600;
+}
+
+.lista-menu .item-media{
+	color: #666;
+}
+
+#hero{
+	background-color: #3476d6;
+	background-size: cover;
+	padding: 5% 0%;
+}
+
+#hero1{
+	background-image: url(../img/banner.png);
+	background-size: auto;
+	padding: 30% 0%;
+}
+
+
+.title.block{
+	margin: 10px 0;
+}
+
+.title .block-header{
+	color: #305792;
+	text-align: center;
+	font-size: 16px;
+}
+
+.title p{
+	color: #ffc836;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 12px;
+}
+
+.img-fluid{
+	max-width: 100%;
+	height: auto;	
+}
+
+.img-fluid1{
+	max-width: 30%;
+	height: auto;	
+}
+
+.img-fluid2{
+	max-width: 40%;
+	height: auto;	
+}
+
+.imagen{
+	padding: 5%;
+}
+
+.content{
+	background-color: white;
+	color: #2e2e2e;
+	padding: 5%;
+	font-weight: 600;
+}
+.content .color-gris{
+	color: #aaa;
+	font-size: 14px;
+	font-weight: normal;
+}
+
+
+
+
+
+.mt-5{
+	margin-top: 10px;
+}
+
+
+
+
+#menu .list .item-media img{
+	width: 50px;
+}
+
+#menu .list{
+	margin-top: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
