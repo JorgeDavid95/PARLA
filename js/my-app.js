@@ -21,8 +21,14 @@ var myApp = new Framework7({
 		path: '/comida/',
     	url: 'comida.html',
     	name: 'comida',
+  		},
+		{
+		path: '/puntos/',
+    	url: 'puntos.html',
+    	name: 'puntos',
   		}
 	]
+	
 });
 
 
